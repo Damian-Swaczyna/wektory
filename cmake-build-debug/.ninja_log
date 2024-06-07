@@ -1,0 +1,9 @@
+# ninja log v5
+1	328	7394621923293826	CMakeFiles/untitled25.dir/main.cpp.obj	b7cf8286c832b7ba
+5	391	7394621923934607	CMakeFiles/untitled25.dir/vector.cpp.obj	5406103c939fd0b1
+392	482	7394621924784610	untitled25.exe	841d4a4a3c19a572
+3	270	7394622675480940	CMakeFiles/untitled25.dir/main.cpp.obj	b7cf8286c832b7ba
+270	349	7394622676234612	untitled25.exe	841d4a4a3c19a572
+3	298	7394623970393306	CMakeFiles/untitled25.dir/main.cpp.obj	b7cf8286c832b7ba
+7	332	7394623970738592	CMakeFiles/untitled25.dir/vector.cpp.obj	5406103c939fd0b1
+2	88	7394624138812768	untitled25.exe	841d4a4a3c19a572
